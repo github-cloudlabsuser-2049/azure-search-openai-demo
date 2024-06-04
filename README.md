@@ -1,5 +1,7 @@
 # ChatGPT + Enterprise data with Azure OpenAI and AI Search
 
+
+
 > [!IMPORTANT]
 > As of November 15, 2023, Azure Cognitive Search has been renamed to Azure AI Search.
 
